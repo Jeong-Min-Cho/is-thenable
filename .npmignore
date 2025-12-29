@@ -1,0 +1,22 @@
+# Source files (dist is published via files field)
+src/
+tests/
+
+# Config files
+tsconfig.json
+tsup.config.ts
+vitest.config.ts
+.gitignore
+.github/
+
+# IDE
+.idea/
+.vscode/
+
+# Test coverage
+coverage/
+
+# Development files
+*.log
+.env*
+.cache/
